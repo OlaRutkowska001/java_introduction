@@ -52,6 +52,6 @@ public class Exercise2 {
 //                break;
 //            }
   //      System.out.println(names[i]);
-        
+
    }
 
