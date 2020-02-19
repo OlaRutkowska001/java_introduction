@@ -16,6 +16,7 @@ public class NewCheesboard {
                 }else {
                     System.out.print("**");
 
+
                 }
             }
                     System.out.println();

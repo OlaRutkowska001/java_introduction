@@ -10,9 +10,9 @@ public class Arrays {
 
         int [] height = new int[]{12, 53, 57, 83,92};
 
-        System.out.println("Element 1 to " + 1 + ages[0]);
-        System.out.println("Element 2 to " + 1 + ages[0]);
-        System.out.println("Element 3 to " + 1 + ages[0]);
+        System.out.println("Element 1 to " + ages[0]);
+        System.out.println("Element 2 to " + ages[1]);
+        System.out.println("Element 3 to " + ages[2]);
 
         System.out.println("Wielkość tablicy: " + ages.length);
 
